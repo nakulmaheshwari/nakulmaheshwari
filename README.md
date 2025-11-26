@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/2qVv7XR.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nakul Maheshwari</h1>
