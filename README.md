@@ -26,7 +26,12 @@
 <a href="https://linkedin.com/in/nakulmaheshwari" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  
+<a href="https://leetcode.com/u/nakulmaheshwari27/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 </p>
+
 
 ---
 
